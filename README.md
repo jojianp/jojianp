@@ -22,13 +22,12 @@
   - ⚡ I enjoy reading, whether it's a good book, manga or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
 
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=asyft&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joji_anp/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-nascimento-pires-92455b269/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoopires/)
 
 
 <!-- GithubStats -->
