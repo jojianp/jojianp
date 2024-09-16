@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 19 years old, currently living in Brazil. I have fluency in English and have experience with HTML, CSS, Javascript, C, C++, Java and POO. 
+  - 💬 I am 20 years old, currently living in Brazil. I have fluency in English and have experience with HTML, CSS, Javascript, C, C++, Java and POO. 
 
   - ⚡ I enjoy reading, whether it's a good book, manga or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
