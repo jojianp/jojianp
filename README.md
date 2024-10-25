@@ -55,6 +55,7 @@
 ## Portfolio:
 - [Time-saving System - TempIn](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-2-ti1-0385100-tempo-livre-inutilizado)
 - [Pick-up game Scheduling System - PeladIn](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti2-1372100-peladin)
+- [Psychology Office System](https://github.com/DisciplinasProgramacao/lpm-projeto2024-1-javaquinho](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-ti3-8966100-terapin))
 - [Restaurant System](https://github.com/DisciplinasProgramacao/lpm-projeto2024-1-javaquinho)
 
 <!-- GIF -->
